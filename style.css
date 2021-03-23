@@ -41,11 +41,11 @@ img:hover {
     background-color: black;
 }
 
-#myCarousel{
+#myCarousel {
     background-color: aquamarine;
 }
 
-#myCarousel img{
+#myCarousel img {
     height: 300px;
     margin-top: 35px;
 }
