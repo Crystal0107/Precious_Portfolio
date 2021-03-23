@@ -40,3 +40,12 @@ img:hover {
     margin: 8px auto;
     background-color: black;
 }
+
+#myCarousel{
+    background-color: aquamarine;
+}
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
